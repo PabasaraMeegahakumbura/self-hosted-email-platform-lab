@@ -1,2 +1,3 @@
-# self-hosted-email-platform-lab
-Production-style evaluation and implementation of self-hosted email platforms, including Mailcow, Poste.io, UCS/Nubus, DNS, security, monitoring, backups and disaster recovery.
+# Self-Hosted Email Platform Engineering Lab
+
+Repository initialization confirmed. Full portfolio-safe documentation is being prepared through a reviewed project workflow.
