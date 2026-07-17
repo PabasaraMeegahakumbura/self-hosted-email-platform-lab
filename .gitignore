@@ -1,0 +1,25 @@
+# Local evidence may contain hostnames, addresses or user data.
+evidence/private/
+evidence/raw/
+backups/
+*.tar
+*.tar.gz
+*.tar.zst
+*.zip
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Logs and temporary output
+*.log
+tmp/
+.DS_Store
+Thumbs.db
